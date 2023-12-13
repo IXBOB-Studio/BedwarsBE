@@ -27,4 +27,4 @@ jobs:
       # Runs a single command using the runners shell
       - uses: Blockception/action-minecraft-bedrock-diagnose@latest
         with: 
-          folder: ${{github.workspace}}/behavior_packs/bedwarsbeh
+          folder: ${{github.workspace}}
